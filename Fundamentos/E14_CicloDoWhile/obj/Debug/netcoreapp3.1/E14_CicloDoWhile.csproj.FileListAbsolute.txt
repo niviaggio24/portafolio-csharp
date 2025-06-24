@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\bin\Debug\netcoreapp3.1\E14_CicloDoWhile.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E14_CicloDoWhile\obj\Debug\netcoreapp3.1\E14_CicloDoWhile.genruntimeconfig.cache

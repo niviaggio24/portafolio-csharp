@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E21_UsoArreglosyCiclos/1.0.0": {
+        "runtime": {
+          "E21_UsoArreglosyCiclos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E21_UsoArreglosyCiclos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

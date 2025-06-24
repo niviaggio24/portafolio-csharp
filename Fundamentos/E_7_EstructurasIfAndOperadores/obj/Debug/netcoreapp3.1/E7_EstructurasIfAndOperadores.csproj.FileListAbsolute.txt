@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E7_EstructurasIfAndOperadores.genruntimeconfig.cache

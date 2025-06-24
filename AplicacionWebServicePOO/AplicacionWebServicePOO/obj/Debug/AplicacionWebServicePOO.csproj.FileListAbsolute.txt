@@ -1,0 +1,7 @@
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\bin\Debug\AplicacionWebServicePOO.dll.config
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\bin\Debug\AplicacionWebServicePOO.dll
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\bin\Debug\AplicacionWebServicePOO.pdb
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\obj\Debug\AplicacionWebServicePOO.csproj.AssemblyReference.cache
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\obj\Debug\AplicacionWebServicePOO.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\obj\Debug\AplicacionWebServicePOO.dll
+C:\Dv0\portafolio_csharp\AplicacionWebServicePOO\AplicacionWebServicePOO\obj\Debug\AplicacionWebServicePOO.pdb

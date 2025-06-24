@@ -1,0 +1,12 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\bin\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\CicloForAnidadNumerPrimos\obj\Release\netcoreapp3.1\CicloForAnidadNumerPrimos.genruntimeconfig.cache

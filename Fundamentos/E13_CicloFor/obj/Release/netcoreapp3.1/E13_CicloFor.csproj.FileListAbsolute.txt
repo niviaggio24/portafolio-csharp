@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\bin\Release\netcoreapp3.1\E13_CicloFor.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E13_CicloFor\obj\Release\netcoreapp3.1\E13_CicloFor.genruntimeconfig.cache

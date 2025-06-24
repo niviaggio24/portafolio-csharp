@@ -1,0 +1,12 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\bin\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E21_UsoArreglosyCiclos\obj\Debug\netcoreapp3.1\E22_UsoArreglosyCiclos.genruntimeconfig.cache

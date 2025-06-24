@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\bin\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E12_EjerciciosPlanetconSWITCH\obj\Release\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.genruntimeconfig.cache

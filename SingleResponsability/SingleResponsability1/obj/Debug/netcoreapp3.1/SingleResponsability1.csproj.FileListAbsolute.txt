@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.exe
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.deps.json
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.runtimeconfig.json
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.dll
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\bin\Debug\netcoreapp3.1\SingleResponsability1.pdb
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.dll
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.pdb
+C:\Dv0\portafolio_csharp\SingleResponsability1\SingleResponsability1\obj\Debug\netcoreapp3.1\SingleResponsability1.genruntimeconfig.cache

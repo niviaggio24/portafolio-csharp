@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\bin\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E12_EjerciciosPlanetconSWITCH\obj\Debug\netcoreapp3.1\E12_EjerciciosPlanetconSWITCH.genruntimeconfig.cache

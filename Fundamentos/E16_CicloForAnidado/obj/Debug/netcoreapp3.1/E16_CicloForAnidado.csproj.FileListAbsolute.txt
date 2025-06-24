@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\bin\Debug\netcoreapp3.1\E16_CicloForAnidado.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E16_CicloForAnidado\obj\Debug\netcoreapp3.1\E16_CicloForAnidado.genruntimeconfig.cache

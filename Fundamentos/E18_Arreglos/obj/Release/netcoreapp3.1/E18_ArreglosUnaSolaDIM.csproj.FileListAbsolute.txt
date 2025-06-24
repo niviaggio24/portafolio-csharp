@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\bin\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E18_Arreglos\obj\Release\netcoreapp3.1\E18_ArreglosUnaSolaDIM.genruntimeconfig.cache

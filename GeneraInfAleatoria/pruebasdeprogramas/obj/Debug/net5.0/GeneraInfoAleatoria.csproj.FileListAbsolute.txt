@@ -1,0 +1,15 @@
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.exe
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.deps.json
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.runtimeconfig.json
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.dll
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\bin\Debug\net5.0\GeneraInfoAleatoria.pdb
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.dll
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\refint\GeneraInfoAleatoria.dll
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.pdb
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\GeneraInfoAleatoria.genruntimeconfig.cache
+C:\Dv0\portafolio_csharp\GeneraInfAleatoria\pruebasdeprogramas\obj\Debug\net5.0\ref\GeneraInfoAleatoria.dll

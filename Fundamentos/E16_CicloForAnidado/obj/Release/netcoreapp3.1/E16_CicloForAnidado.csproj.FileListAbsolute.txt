@@ -1,0 +1,12 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\bin\Release\netcoreapp3.1\E16_CicloForAnidado.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E16_CicloForAnidado\obj\Release\netcoreapp3.1\E16_CicloForAnidado.genruntimeconfig.cache

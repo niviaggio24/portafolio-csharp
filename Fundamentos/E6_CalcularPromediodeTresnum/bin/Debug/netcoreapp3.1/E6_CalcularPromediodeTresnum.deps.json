@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E6_CalcularPromediodeTresnum/1.0.0": {
+        "runtime": {
+          "E6_CalcularPromediodeTresnum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E6_CalcularPromediodeTresnum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

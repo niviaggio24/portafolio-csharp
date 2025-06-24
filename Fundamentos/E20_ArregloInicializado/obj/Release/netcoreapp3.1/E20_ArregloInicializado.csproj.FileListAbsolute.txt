@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\bin\Release\netcoreapp3.1\E20_ArregloInicializado.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E20_ArregloInicializado\obj\Release\netcoreapp3.1\E20_ArregloInicializado.genruntimeconfig.cache

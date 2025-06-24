@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E2_ConvertirGradosCelsi_A_Faren/1.0.0": {
+        "runtime": {
+          "E2_ConvertirGradosCelsi_A_Faren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E2_ConvertirGradosCelsi_A_Faren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

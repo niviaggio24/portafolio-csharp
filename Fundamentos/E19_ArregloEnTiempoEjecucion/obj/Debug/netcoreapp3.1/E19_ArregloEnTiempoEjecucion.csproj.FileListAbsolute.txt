@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\bin\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E19_ArregloEnTiempoEjecucion\obj\Debug\netcoreapp3.1\E19_ArregloEnTiempoEjecucion.genruntimeconfig.cache

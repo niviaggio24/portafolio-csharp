@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E9_EjercicioIfAnidados/1.0.0": {
+        "runtime": {
+          "E9_EjercicioIfAnidados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E9_EjercicioIfAnidados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E22_PrimerMetodo/1.0.0": {
+        "runtime": {
+          "E22_PrimerMetodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E22_PrimerMetodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

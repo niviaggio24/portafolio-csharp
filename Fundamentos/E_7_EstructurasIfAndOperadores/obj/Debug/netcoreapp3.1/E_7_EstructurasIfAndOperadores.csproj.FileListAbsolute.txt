@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\bin\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.genruntimeconfig.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E_7_EstructurasIfAndOperadores\obj\Debug\netcoreapp3.1\E_7_EstructurasIfAndOperadores.csprojAssemblyReference.cache

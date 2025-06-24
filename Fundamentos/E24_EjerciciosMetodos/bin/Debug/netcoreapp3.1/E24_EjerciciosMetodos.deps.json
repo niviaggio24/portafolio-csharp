@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E24_EjerciciosMetodos/1.0.0": {
+        "runtime": {
+          "E24_EjerciciosMetodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E24_EjerciciosMetodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

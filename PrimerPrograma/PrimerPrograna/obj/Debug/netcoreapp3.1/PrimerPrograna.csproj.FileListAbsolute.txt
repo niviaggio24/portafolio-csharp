@@ -1,0 +1,16 @@
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.exe
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.deps.json
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.runtimeconfig.json
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.dll
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\PrimerPrograna.pdb
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.csproj.CopyComplete
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.dll
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.pdb
+C:\Users\FreyN\source\repos\PrimerPrograna\PrimerPrograna\obj\Debug\netcoreapp3.1\PrimerPrograna.genruntimeconfig.cache

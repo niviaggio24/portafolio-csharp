@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3023E902-A9C9-47FC-91D2-0EB3A0939EFD}|Prueba\\proyectoformulario.csproj|c:\\dv0\\portafolio_csharp\\paginaaspnet\\prueba\\scripts\\_references.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3023E902-A9C9-47FC-91D2-0EB3A0939EFD}|Prueba\\proyectoformulario.csproj|solutionrelative:prueba\\scripts\\_references.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3023E902-A9C9-47FC-91D2-0EB3A0939EFD}|Prueba\\proyectoformulario.csproj|C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\prueba\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3023E902-A9C9-47FC-91D2-0EB3A0939EFD}|Prueba\\proyectoformulario.csproj|solutionrelative:prueba\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_references.js",
+              "DocumentMoniker": "C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\Prueba\\Scripts\\_references.js",
+              "RelativeDocumentMoniker": "Prueba\\Scripts\\_references.js",
+              "ToolTip": "C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\Prueba\\Scripts\\_references.js",
+              "RelativeToolTip": "Prueba\\Scripts\\_references.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-05T17:52:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\Prueba\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Prueba\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Dv0\\portafolio_csharp\\PaginaASPNet\\Prueba\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Prueba\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:51:24.061Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1487,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

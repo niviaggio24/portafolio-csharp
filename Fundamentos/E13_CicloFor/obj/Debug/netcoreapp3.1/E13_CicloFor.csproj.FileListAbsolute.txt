@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\bin\Debug\netcoreapp3.1\E13_CicloFor.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E13_CicloFor\obj\Debug\netcoreapp3.1\E13_CicloFor.genruntimeconfig.cache

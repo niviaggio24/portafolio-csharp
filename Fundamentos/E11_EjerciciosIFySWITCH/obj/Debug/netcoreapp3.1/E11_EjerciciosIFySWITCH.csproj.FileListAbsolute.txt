@@ -1,0 +1,13 @@
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.exe
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.deps.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.runtimeconfig.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.runtimeconfig.dev.json
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\bin\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.csprojAssemblyReference.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.AssemblyInfoInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.AssemblyInfo.cs
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.csproj.CoreCompileInputs.cache
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.dll
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.pdb
+C:\Users\FreyN\source\repos\E1_CalcularAreayPerimetro\E11_EjerciciosIFySWITCH\obj\Debug\netcoreapp3.1\E11_EjerciciosIFySWITCH.genruntimeconfig.cache

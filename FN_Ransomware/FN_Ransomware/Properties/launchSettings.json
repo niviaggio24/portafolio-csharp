@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FN_Ransomware": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\ArchivosPDF"
+    }
+  }
+}

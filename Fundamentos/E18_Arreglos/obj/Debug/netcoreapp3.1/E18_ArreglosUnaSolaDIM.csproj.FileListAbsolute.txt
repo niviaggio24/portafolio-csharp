@@ -1,0 +1,13 @@
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.exe
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.deps.json
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.runtimeconfig.json
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.runtimeconfig.dev.json
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\bin\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.AssemblyInfoInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.AssemblyInfo.cs
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.csproj.CoreCompileInputs.cache
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.dll
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.pdb
+C:\Dv0\portafolio_csharp\Fundamentos\E18_Arreglos\obj\Debug\netcoreapp3.1\E18_ArreglosUnaSolaDIM.genruntimeconfig.cache
